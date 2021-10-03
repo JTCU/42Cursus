@@ -2,7 +2,7 @@
 	42cursus
 </h1>
 
-![jaeskim's stats](https://badge42.herokuapp.com/api/stats/appinha)
+![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jturrill)
 
 ### Projects
 
