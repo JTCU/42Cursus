@@ -2,7 +2,8 @@
 	42cursus
 </h1>
 <div>
-![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jturrill)
+
+<img alt="Number of lines of code" src="![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jturrill)" />
 </div>
 
 <p align="center">
