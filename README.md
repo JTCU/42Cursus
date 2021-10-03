@@ -83,4 +83,4 @@ The table below presents the cursus curriculum in the chronological order in whi
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:--					|--:			|:-:						|:--			|
-|00		|[Libft](https://github.com/jtcu/libft)|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/jturrill/Libft)	|level 1 - 3%	|
+|00		|[Libft](https://github.com/jtcu/libft)|C						|462 XP			|![Project Score - Libft](https://badge42.herokuapp.com/api/project/jturrill/Libft)	|level 1 - 5%	|
