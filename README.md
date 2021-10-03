@@ -8,10 +8,9 @@
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jtcu/42cursus?color=blueviolet" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/jtcu/42cursus?color=blueviolet" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/jtcu/42cursus?color=blue" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jtcu/42cursus?color=blue" />
+	<img alt="GitHub total languages" src="https://img.shields.io/github/languages/count/jtcu/42cursus?color=blue" />
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jtcu/42cursus?color=brightgreen" />
 </p>
 
