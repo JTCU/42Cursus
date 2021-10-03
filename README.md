@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jturrill)](https://github.com/JaeSeoKim/badge42)
+	![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jturrill)
 </p>
 
 <p align="center">
