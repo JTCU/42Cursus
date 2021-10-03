@@ -2,9 +2,7 @@
 	42cursus
 </h1>
 
-<p align="center">
-	![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jturrill)
-</p>
+![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jaeskim)
 
 <p align="center">
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/jtcu/42cursus?color=blueviolet" />
