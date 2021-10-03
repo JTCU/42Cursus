@@ -1,10 +1,8 @@
 <h1 align="center">
 	42cursus
 </h1>
-<div>
 
-<img alt="Number of lines of code" src="![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jturrill)" />
-</div>
+![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jturrill)
 
 <p align="center">
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/jtcu/color=blueviolet" />
