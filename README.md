@@ -11,7 +11,7 @@
 </p>
 
 
-### Inner Circle (basic curriculum)
+### Projects
 
 |CIRCLE	|PROJECT							|TECHNOLOGY				|EXPERIENCE		|STATUS						|ATTAINED LEVEL	|
 |:-:	|:--								|:--					|--:			|:-:						|:--			|
