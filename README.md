@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-`r ![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jturrill)`
+`![jaeskim's stats](https://badge42.herokuapp.com/api/stats/jturrill)`
 </p>
 
 <p align="center">
